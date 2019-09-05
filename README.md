@@ -1,6 +1,13 @@
-dotfiles
+Dotfiles
 ========
+Kindly lifted from [here](https://github.com/alexpearce/dotfiles).
 
-Configuration files for various applications
+Usage
+-----
 
-This file has been edited remotely, twice.
+```bash
+$ git clone https://github.com/quaereme/dotfiles ~/.dotfiles
+$ cd ~/.dotfiles
+$ stow vim # and any other directories
+```
+
