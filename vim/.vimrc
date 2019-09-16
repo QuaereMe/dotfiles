@@ -43,6 +43,7 @@ filetype plugin indent on    " required
 syntax on
 set tabstop=4 softtabstop=0 expandtab shiftwidth=2 smarttab
 set number
+set visualbell
 
 let g:airline_powerline_fonts = 1
 let g:airline_theme='badwolf'
